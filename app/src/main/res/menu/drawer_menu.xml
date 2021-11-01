@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item android:title="@string/news">
+        <group android:checkableBehavior="single">
+            <menu>
+                <item android:id="@+id/nav_laatste" android:icon="@drawable/ic_laatste" android:title="@string/laatste" />
+                <item android:id="@+id/nav_algemeen" android:icon="@drawable/ic_algemeen" android:title="@string/algemeen" />
+                <item android:id="@+id/nav_internet" android:icon="@drawable/ic_internet" android:title="@string/internet" />
+                <item android:id="@+id/nav_sport" android:icon="@drawable/ic_sport" android:title="@string/sport" />
+                <item android:id="@+id/nav_opmerkelijk" android:icon="@drawable/ic_opmerkelijk" android:title="@string/opmerkelijk" />
+                <item android:id="@+id/nav_games" android:icon="@drawable/ic_games" android:title="@string/games" />
+                <item android:id="@+id/nav_wetenschap" android:icon="@drawable/ic_wetenschap" android:title="@string/wetenschap" />
+                <item android:id="@+id/nav_liked" android:icon="@drawable/ic_heart_full" android:title="@string/favorieten" />
+            </menu>
+        </group>
+    </item>
+
+
+    <item android:title="@string/account">
+        <menu>
+            <item android:id="@+id/login" android:icon="@drawable/ic_login" android:title="@string/login" />
+            <item android:id="@+id/register" android:icon="@drawable/ic_register" android:title="@string/register" />
+            <item android:id="@+id/logout" android:icon="@drawable/ic_logout" android:title="@string/logout" />
+        </menu>
+    </item>
+
+</menu>

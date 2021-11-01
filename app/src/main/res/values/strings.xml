@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">student689624</string>
+    <string name="laatste">Laatste Nieuws</string>
+    <string name="algemeen">Algemeen</string>
+    <string name="internet">Internet</string>
+    <string name="sport">Sport</string>
+    <string name="opmerkelijk">Opmerkelijk</string>
+    <string name="games">Games</string>
+    <string name="wetenschap">Wetenschap</string>
+    <string name="account">Account</string>
+    <string name="login">Inloggen</string>
+    <string name="register">Registreer</string>
+    <string name="logout">Uitloggen</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="password">Wachtwoord</string>
+    <string name="userPlaceholder">Gebruiker</string>
+    <string name="navigation_drawer_open">Open navigatie</string>
+    <string name="navigation_drawer_close">Sluit navigatie</string>
+    <string name="news">Nieuws</string>
+    <string name="like">Leuk vinden</string>
+    <string name="unlike">Niet meer leuk vinden</string>
+    <string name="lezen">Verder lezen</string>
+    <string name="logoutmsg">Je bent uitgelogd!</string>
+    <string name="favorieten">Favorieten</string>
+    <string name="related">Verwante artikelen:</string>
+    <string name="categorie">Categorie: </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="norelatedarticles">Geen verwante artikelen :(</string>
+</resources>
